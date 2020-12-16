@@ -2,7 +2,7 @@
 
 This repository contains the Xcode theme that I use. 
 The Xcode theme is inspired by [Palenigh Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) and [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) for Visual Studio Code. 
-I made some modifications to it to my tasting. Feel free to use it or modify it to your liking 👍.
+I made some modifications to it to my tasting. Feel free to use or modify it to your liking. Go build great things 🚀.
 
 ![](Preview.png)
 
