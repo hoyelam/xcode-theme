@@ -24,7 +24,7 @@ $ git clone https://github.com/hoyelam/xcode-theme.git
 
 4. Relaunch Xcode
 
-5. Go to `Preferences` to `Themes` and then select `PalenightHoyelam`
+5. Go to Xcode `Preferences` to `Themes` and then select `PalenightHoyelam`
 
 If you have any further questions or needed help, please refer to me on Twitter:
 * [Hoye Lam](https://twitter.com/hoyelam)
