@@ -2,7 +2,7 @@
 
 This repository contains the Xcode theme that I use. 
 The Xcode theme is inspired by [Palenigh Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) and [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) for Visual Studio Code. 
-I made some modifications to it to my tasting. Feel free to use it or modify it to your liking 👍.
+I made some modifications to it to my tasting. Feel free to use or modify it to your liking. Go build great things 🚀.
 
 ![](Preview.png)
 
@@ -24,7 +24,7 @@ $ git clone https://github.com/hoyelam/xcode-theme.git
 
 4. Relaunch Xcode
 
-5. Go to `Preferences` to `Themes` and then select `PalenightHoyelam`
+5. Go to Xcode `Preferences` to `Themes` and then select `PalenightHoyelam`
 
 If you have any further questions or needed help, please refer to me on Twitter:
 * [Hoye Lam](https://twitter.com/hoyelam)
